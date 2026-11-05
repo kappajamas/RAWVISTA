@@ -1,0 +1,8 @@
+@use "bootstrap/scss/bootstrap" with (
+  $theme-colors: (
+    "primary": #9a189a,
+    "secondary": #222831,
+    "success": #00b894,
+  )
+);
+

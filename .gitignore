@@ -1,0 +1,16 @@
+
+.env
+**/.env
+
+
+node_modules/
+**/node_modules/
+
+
+*.pptx
+*.zip
+Vasile Giulia - Georgiana/prezentare_eu.pptx
+
+dist/
+dist-ssr/
+*.log
